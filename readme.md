@@ -1,11 +1,8 @@
-# Minerva's Book
+# Das Buch
 
-_Minerva's Book_ is a small art installation disguised as a physical, 3D-printed book with an e-ink cover. This e-ink display periodically updates to show a randomly selected news headline fetched from a public news API. The headline is then passed to OpenAI's Chat Completion endpoint to search for real books related to that topic. In essence, the content on the book’s cover reflects current events and literary recommendations tied to those events.
+_Das Buch_ is a small art installation disguised as a physical, 3D-printed book with an e-ink cover. This e-ink display periodically updates to show a randomly selected news headline fetched from a public news API. The headline is then passed to OpenAI's Chat Completion endpoint to search for real books related to that topic. In essence, the content on the book’s cover reflects current events and literary recommendations tied to those events.
 
-More information can be found on my website: https://www.hinterding.com//projects/minervas-book
-
-## Why "Minerva"?
-Minerva was the Roman goddess of wisdom, arts, trade, and strategy. This project borrows her name because it marries the wisdom of literature (books) with daily events (news), creating a dynamic, knowledge-focused artifact.
+More information can be found on my website: https://www.hinterding.com/projects/das-buch
 
 ## How It Works
 1. **Connect to Wi-Fi** using the credentials you provide in `SSID` and `PASSWORD`.
